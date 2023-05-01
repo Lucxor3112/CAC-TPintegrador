@@ -1,0 +1,23 @@
+@media (max-width:480px) {
+    #carouselExampleDos img{
+        background-color: red;
+        object-position: 0px 0px;
+    }
+    .carousel-item{
+        height: 75vh;
+    }
+    .form-width{
+        width: 90vw;
+    }
+    .nav{
+        flex-direction: column;
+    }
+    .container-text-banner{
+        align-items: center;
+        justify-content: center;
+    }
+    .text-banner{
+        width: 80vw;
+    }
+    
+}

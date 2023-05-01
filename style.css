@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kalam&display=swap');
+
+.navbar{
+    background-image: linear-gradient(40deg, #01477b, #a6c715);
+}
+.titulo{
+    font-family: 'Kalam', cursive;
+}
+
+footer{
+    background-image: linear-gradient(40deg, #01477b, #a6c715);
+}
+
+.scaby img{
+    object-position: 0px -70px;
+}
+.scaby2 img{
+    object-position: 0px -80px;
+}
+.scaby3 img{
+    object-position: 0px -80px;
+}
+.scaby4 img{
+    object-position: 0px -40px;
+}
+
+#casos .carousel-item{
+    height: 90vh;
+}
+
+.form-width{
+    width: 60vw;
+}
+
+.text-banner{
+    width: 33vw;
+}
+
+.text-banner h2{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.letraDistinta{
+    font-family: 'Bebas Neue', cursive;
+}
